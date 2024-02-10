@@ -177,7 +177,7 @@ function VLib:Window(textgame)
 	CircleName.BackgroundTransparency = 1.000
 	CircleName.Size = UDim2.new(0, 38, 0, 37)
 	CircleName.Font = Enum.Font.Gotham
-	CircleName.Text = "NBT"
+	CircleName.Text = "X"
 	CircleName.TextColor3 = Color3.fromRGB(255, 255, 255)
 	CircleName.TextSize = 16.000
 
@@ -666,7 +666,7 @@ function VLib:Window(textgame)
 			Arrow.BackgroundTransparency = 1.000
 			Arrow.Position = UDim2.new(0.923076808, 0, 0.0357142836, 0)
 			Arrow.Size = UDim2.new(0, 25, 0, 25)
-			Arrow.Image = "http://www.roblox.com/asset/?id=15909395058"
+			Arrow.Image = "http://www.roblox.com/asset/?id=6034818372"
 
 			local DropdownFrame = Instance.new("Frame")
 			local DropdownFrameCorner = Instance.new("UICorner")
